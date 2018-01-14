@@ -1,0 +1,22 @@
+# ----------- CONFIGURABLE START -----------
+title:            "Digital Preservation is People"
+description:      "#digiprespeople"
+url:              https://digital-preservation-is-people.github.io # Site url, without a slash at the end.
+signoff:          "Digital Preservation is People" # Your name
+facebook_appid:   # APP ID for like button, remove from /_includes/share.html if unwanted.
+google_analytics: # Set tracking, remove from /javascripts/basic.js if unwanted.
+share:            true # Turn on twitter and facebook share buttons
+
+links:
+  - name:         Posts
+    url:          /
+    external:     false
+  - name:         About
+    url:          /about
+    external:     false
+# ------------ CONFIGURABLE END ------------
+
+permalink:        /posts/:title
+defaults:
+  - values:
+      layout: "default"
