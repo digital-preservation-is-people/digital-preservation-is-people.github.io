@@ -12,7 +12,7 @@
       <a href="{{ site.url }}">
         <img src="{{ site.url }}/images/scribble.png" alt="Home" width="53" height="59">
       </a>
-      <p>{{ site.title }}</p>
+      <h2><p>{{ site.title }}</p></h2>
     </header>
     <div class="mw7 bg-white mt4 mb3 center br2-ns bt bb ba-ns b--light-gray">
       <nav class="bb b--light-gray pv4 tc" aria-label="Main">
@@ -48,7 +48,9 @@
       {% if is_post %}{% include pagination.html %}{% endif %}
     </div>
     <footer class="mw7 center tc pt3 pb4 silver">
-      Built with Jekyll using <a href="http://github.com/muan/scribble" class="link silver hover-blue pv1">Scribble</a>.
+      <small><b>Digital Preservation is People</b> is hosted on <b><a href="https://github.com/digital-preservation-is-people" alt="Digital Preservation is People, Github" class="link silver hover-blue pv1">GitHub.</a></b>
+      <br/>
+      Built with Jekyll using <b><a href="http://github.com/muan/scribble" class="link silver hover-blue pv1">Scribble</a></b>.</small>
       <img src="{{ site.url }}/images/scribble2.png" alt="scribble" class="mt4 db center" />
     </footer>
   </body>
