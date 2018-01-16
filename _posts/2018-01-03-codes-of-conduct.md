@@ -3,7 +3,7 @@ title: Digital Preservation Codes of Conduct
 date: 2018-01-03 01:15:02
 ---
 
-This site began with the creation of a list of digital preservation and digital preservation related organisations who maintained codes of conduct. Or didn't.
+This project began with the creation of a list of digital preservation and digital preservation related organisations who maintained codes of conduct. Or didn't.
 
 The list can be found here: [Digital Preservation Codes of Conduct](https://github.com/digital-preservation-is-people/digipres-codes-of-conduct)
 
