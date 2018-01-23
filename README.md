@@ -13,7 +13,7 @@ Need a staring point? [Check out the theme's GitHub pages](https://github.com/mu
 ## To run locally
 
 ```
-git@github.com:digital-preservation-is-people/digital-preservation-is-people.github.io.git
+git clone git@github.com:digital-preservation-is-people/digital-preservation-is-people.github.io.git
 cd digital-preservation-is-people.github.io.git
 bundle
 bundle exec jekyll serve
