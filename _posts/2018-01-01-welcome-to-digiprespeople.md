@@ -13,7 +13,11 @@ As we are in the beginning stages of this project. It may be difficult to see ho
 
 The project is open source. Anyone who wants to become a member simply has to signal their intent and a large number of folk on here can make them a member of this organisation too.
 
-The project hopes to gather stories from the community of any nature. Contibuted stories about the good and bad examples of looking after folk in our community will be published so that they can be shared and the experiences not lost or considered too inconvenient to remember. Submissions surrounding anything that emphasises the people in our work can be published here. 
+The project hopes to gather stories from the community of any nature. We need article writers! We also need ideas for articles. Content, ideas, and links to other articles we should be aware of can be submitted via [GitHub Issues](https://github.com/digital-preservation-is-people/digital-preservation-is-people.github.io/issues). 
+
+We are working to find a mechanism for folks to contribute anonymously. If you are happy to engage with a particular issue with your GitHub account feel free to submit your content. If you are uncomfortable in any way, but know and trust one of the repository organizers you can send your content to them for publishing and your identity will remain safe.
+
+Contributed stories about the good and bad examples of looking after folk in our community will be published so that they can be shared and the experiences not lost or considered too inconvenient to remember. Submissions surrounding anything that emphasizes the people in our work can be published here.  
 
 ## Preserving Anonymity
 
