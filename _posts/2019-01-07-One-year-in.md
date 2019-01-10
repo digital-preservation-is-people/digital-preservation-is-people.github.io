@@ -24,4 +24,4 @@ While Code of Conducts are a fine ethical barometer for the digital preservation
 
 <something about open source projects being done on a voluntary basis here maybe>?
 
-When we say digital preservation is people, we mean that we need to recognize the humanity (and humanes!) behind what we do. We are not thought leaders or idiosyncratic individuals. We are not file format identifications or metadata standards. We are not systems or workflows or history grabber machines. We are people and a community of practice. Digital preservation does not work without us.
+When we say digital preservation is people, we mean that we need to recognize the humanity (and humans!) behind what we do. We are not thought leaders or idiosyncratic individuals. We are not file format identifications or metadata standards. We are not systems or workflows or history grabber machines. We are people and a community of practice. Digital preservation does not work without us.
