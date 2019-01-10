@@ -13,6 +13,7 @@ Some highlights include:
 * [iPres 2018 adopted the first iPres code of conduct and response framework](https://ipres2018.org/code-of-conduct)
 * [The Digital Preservation Coalition created an Inclusion and Diversity policy](https://www.dpconline.org/docs/miscellaneous/about/1807-dpc-inclusion-and-diversity-policy/file)
 * The 2018 Digital Library Foundation Forum's Call for Proposals stated that: ["“Manels”—all-male-identifying panels—will not be accepted into the conference, and proposals involving a wide diversity of speakers will be looked on favorably by the committee."](https://forum2018.diglib.org/call-for-proposals/)
+* [The Digital Library Foundation also announced the beginning and planned continuation of funding people from Historically Black Colleges and Universities to the Forum](https://forum2018.diglib.org/fellowship-opportunities/#HBCU)
 
 <add more examples>
 
