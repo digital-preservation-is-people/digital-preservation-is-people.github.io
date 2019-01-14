@@ -1,8 +1,8 @@
-A little over a year ago, a list of code of conducts was moved off Ross Spencer's personal github page to a community owned resource & project, and so Digital Preservation is People was born. 
+A little over a year ago, a list of codes of conduct was moved off Ross Spencer's personal github page to a community owned resource & project, and so Digital Preservation is People was born. 
 
 We started this project after a few particularly trying and isolating experiences. We recognized that while there are a lot of great organizations advocating for digital preservation as a practice, there was room for improvement when it came to advocating for the people doing the work. 
 
-A concrete way of assessing this gap was looking at our major conferences and organizations without code of conducts. This list was a way putting those organizations lacking a code of conduct on notice, while also collecting resources and references for creating and enforcing code of conducts.
+A concrete way of assessing this gap was looking at our major conferences and organizations without codes of conduct. This list was a way putting those organizations lacking a code of conduct on notice, while also collecting resources and references for creating and enforcing code of conducts.
 
 ## Looking back on 2018
 
