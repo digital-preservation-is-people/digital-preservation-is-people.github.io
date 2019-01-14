@@ -1,8 +1,8 @@
-A little over a year ago, a list of codes of conduct was moved off Ross Spencer's personal github page to a community owned resource & project, and so Digital Preservation is People was born. 
+A little over a year ago, a list of codes of conduct was moved off Ross Spencer's personal github page to a community owned resource and project, and so Digital Preservation is People was born. 
 
 We started this project after a few particularly trying and isolating experiences. We recognized that while there are a lot of great organizations advocating for digital preservation as a practice, there was room for improvement when it came to advocating for the people doing the work. 
 
-A concrete way of assessing this gap was looking at our major conferences and organizations without codes of conduct. This list was a way putting those organizations lacking a code of conduct on notice, while also collecting resources and references for creating and enforcing code of conducts.
+A concrete way of assessing this gap was looking at our major conferences and organizations without codes of conduct. This list was a way putting those organizations lacking a code of conduct on notice, while also collecting resources and references for creating and enforcing codes of conduct.
 
 ## Looking back on 2018
 
@@ -20,7 +20,7 @@ Some highlights include:
 
 When we originally started this project, we also wanted it to be a space where people could share their own positive and negative experiences in the field, anonymously if they chose. And, while we haven't done that yet, it is still something we want to be a platform for. If anyone has suggestions about how to create a safe, anonymous 'tip line' of sorts to facilitate this, let us know!
 
-While Code of Conducts are a fine ethical barometer for the digital preservation community, there are still lots of systemic issues that need to be addressed, assessed, and corrected. One of these is the need for hiring institutions value our labor monetarily. While it is great that loads of people and institutions are coming around to digital preservation, and there are more professional opportunities for us to do our work, and while we love what we do, we need to be paid accordingly. 
+While Codes of Conduct are a fine ethical barometer for the digital preservation community, there are still lots of systemic issues that need to be addressed, assessed, and corrected. One of these is the need for hiring institutions value our labor monetarily. While it is great that loads of people and institutions are coming around to digital preservation, and there are more professional opportunities for us to do our work, and while we love what we do, we need to be paid accordingly. 
 
 As more and more folk identify technology, not just as a time-saver, but as a necessity to their work, they need to be supported in learning, and developing. But information technology reduces the barriers to learning enabling people to do tutorials and courses for free. Programming languages make it easy to engage with commodity hardware and so everything can be done at home. How do we make sure there are opportunities? How do we make sure that folks are supported and rewarded for their endeavors? How do we make sure the output of this effort is not perpetually done on a voluntary basis and brought back to organisations? Organisations push and not just pull.
 
