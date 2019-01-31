@@ -1,7 +1,7 @@
 
 Digital Preservation is People stands in support of April Hathcock, and all people who have suffered racist, sexist attacks and trauma at American Library Association meetings, and at all professional meetings, conferences, listservs, organizations, and institutions. 
 
-At the recent ALA Midwinter meeting in a Council Forum, [April Hathcock was verbally attacked in front of many witnesses, none of whom stood up, interrupted, or otherwise intervened in the moment. ALA leadership further compounded the harm by threatening April Hathcock with legal action for speaking out about what happened on Twitter](https://aprilhathcock.wordpress.com/2019/01/30/alamw-what-happened-and-what-should-happen-next/). 
+At the recent ALA Midwinter meeting in a Council Forum, [April Hathcock was verbally attacked in front of many witnesses, none of whom stood up, interrupted, or otherwise intervened in the moment. ALA leadership along with their legal counsel tried to warn April away from speaking openly about her awful experience](https://aprilhathcock.wordpress.com/2019/01/30/alamw-what-happened-and-what-should-happen-next/). 
 
 [April Hathcock makes four demands from the ALA.](https://aprilhathcock.wordpress.com/2019/01/30/alamw-what-happened-and-what-should-happen-next/) We are echoing and amplifying those demands here:
 
