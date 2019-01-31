@@ -27,5 +27,5 @@ What happened to April Hathcock is infuriating, and it should not happen to anyo
 The American Library Association must meet April Hathcock’s four demands. 
 
 >*My silences had not protected me. Your silence will not protect you. But for every real word spoken, for every attempt I had ever made to speak those truths for which I am still seeking, I had made contact with other women while we examined the words to fit a world in which we all believed, bridging our differences.*
-
-~ Audre Lorde 
+>
+>~ Audre Lorde 
