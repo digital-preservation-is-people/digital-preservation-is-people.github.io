@@ -1,5 +1,5 @@
 ---
-title: Supporting the #52Fund
+title: Supporting the 52Fund
 date: 2020-01-26 14:16:02
 ---
 
