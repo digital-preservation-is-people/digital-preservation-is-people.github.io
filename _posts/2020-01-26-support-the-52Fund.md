@@ -35,6 +35,8 @@ The only context provided (if you go looking for it) is as follows:
 > for our profession within our national organization, and multi-faceted
 > connections to the concerns of SAA’s leadership.”
 
+You can see that on Twitter: [here][ref-1].
+
 ## Why is this a problem?
 
 By-laws aside, 52 signers decided to subvert an open-ballot, open to an entire
@@ -42,7 +44,7 @@ organization to have their say, and put their weight behind someone they
 considered credible.
 
 52 signers sought an end-around of the current Chair of the Nominating
-Committee. Themselves [seeking to][saa-6] do the following:
+Committee - Lae’l Hughes-Watkins. Who wanted to achieve [the following][saa-7]. 
 
 > I think it will be critical to put a slate of candidates together that will
 > have a strong portfolio of success in making room for historically
@@ -55,40 +57,42 @@ We know you (the 52 signers) felt the nominees didn't bring enough "varied"
 experience, and felt they didn't bring multi-faceted connections to the
 concerns of the SAA's leadership (whatever that means?!).
 
-But what spoke to you and said:
+It is near-impossible so see why:
 
-* This truly didn't exist in the nominee's backgrounds, within SAA, or outside?
-* That spoke to you and said, this couldn't be learned with a year in a VP
-position with the mentorship of the current president?
-* That you had the answer to what leadership should and does look like?
-* That you could speak better to the organization's needs than the existing
-nominating committee?
+* The nominees apparently didn't bring enough varied leadership experience from 
+within and outside the SAA.
+* The complexities of the role could not be learned in a year in a VP position 
+with the mentor-ship of the current president.
+*  Leadership should look a certain way that is not congruent with what the 
+nominees offer.
+*  A candidate not chosen by the elected nomination committee better serves 
+SAA's needs.
 
 ## Leadership in our community
 
 Leadership in our community -- ultimately, the entire GLAM sector is the
-strength, empathy, and sympathy, of each of our members. It relies on
+strength, sympathy, and empathy, of each of our members. It relies on
 individuals of all backgrounds to push back, and upwards, and to call-out the
 behaviors of those with leadership in their title. To call out the behaviors of
 organizations that have leadership in their mandate and are failing to
-demonstrate that. That is what we mean by leadership by nature. Processes and
-procedures can often help us but this time they are failing a group of good
-people.
+demonstrate that. That is what we mean by 'leadership by nature'. Often, 
+processes and procedures can help us but this time they are failing a group of 
+good people.
 
 The SAA community, and existing leadership (by virtue of _position_, or
-_**nature**_, have spoken and are looking to support Lae’l Hughes-Watkins
-[call][saa-7].
+_**nature**_, have spoken and are looking to support Lae’l Hughes-Watkins call.
 
-They have setup a fund for underrepresented communities to access to have
-their voice on this situation as well and that is the *[#52Fund][saa-8]*.
+They have setup the *[#52Fund][saa-8]* to support QTBIPOC, BIPOC, LGBTQ+, and 
+disabled memory workers' participation in official professional channels, like 
+renewing SAA memberships and attending SAA's annual meeting.
 
-Please read about the mission, and please consider the ways that you can
-donate or support the cause.
+Please read about the mission and consider the ways that you can participate, 
+donate, or support the cause.
 
-More on this can be learned by following the hash-tag
+More on this issue can be learned by following the hash-tag
 [#thatdarnedpetition][saa-9] on Twitter.
 
-*Disclaimer*: The author of this post is not a member of the SAA, their
+*Disclaimer*: Though the author of this post is not a member of the SAA, their
 colleagues and many future-leaders are.
 
 [saa-1]: https://toxicarchivist.wordpress.com/2020/01/16/white-like-me/
@@ -96,7 +100,7 @@ colleagues and many future-leaders are.
 [saa-3]: https://archivesforblacklives.wordpress.com/2020/01/21/archives-for-black-lives-in-philadelphia-statement-on-the-society-of-american-archivists-2020-vice-president-president-elect-ballot-petition/
 [saa-4]: http://files.archivists.org/governance/PetitionReceivedBySAA-01-10-2020.pdf
 [saa-5]: https://www2.archivists.org/news/2020/update-to-the-2020-saa-election
-[saa-6]: https://twitter.com/blkgrlarchivist/status/1217619766426439680
 [saa-7]: https://www2.archivists.org/governance/election/2019/Hughes-Watkins
 [saa-8]: https://docs.google.com/document/d/1bW7OMGahktEltnfKuSz7TppusPcl9Nw3iDRpwd9fh9Y/edit#
 [saa-9]: https://twitter.com/hashtag/thatdarnpetition?src=hashtag_click
+[ref-1]: https://twitter.com/RileyEGriffin/status/1218164964868927489
