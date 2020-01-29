@@ -44,7 +44,7 @@ organization to have their say, and put their weight behind someone they
 considered credible.
 
 52 signers sought an end-around of the current Chair of the Nominating
-Committee - Lae’l Hughes-Watkins. Who wanted to achieve [the following][saa-7]. 
+Committee - Lae’l Hughes-Watkins who wanted to achieve [the following][saa-7]: 
 
 > I think it will be critical to put a slate of candidates together that will
 > have a strong portfolio of success in making room for historically
@@ -57,7 +57,7 @@ We know you (the 52 signers) felt the nominees didn't bring enough "varied"
 experience, and felt they didn't bring multi-faceted connections to the
 concerns of the SAA's leadership (whatever that means?!).
 
-It is near-impossible so see why:
+It is near-impossible to see why:
 
 * The nominees apparently didn't bring enough varied leadership experience from 
 within and outside the SAA.
@@ -71,8 +71,8 @@ SAA's needs.
 ## Leadership in our community
 
 Leadership in our community -- ultimately, the entire GLAM sector is the
-strength, sympathy, and empathy, of each of our members. It relies on
-individuals of all backgrounds to push back, and upwards, and to call-out the
+strength, sympathy, and empathy of each of our members. It relies on
+individuals of all backgrounds to push back, and upwards, and to call out the
 behaviors of those with leadership in their title. To call out the behaviors of
 organizations that have leadership in their mandate and are failing to
 demonstrate that. That is what we mean by 'leadership by nature'. Often, 
