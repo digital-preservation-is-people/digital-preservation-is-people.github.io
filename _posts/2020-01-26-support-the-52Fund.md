@@ -12,7 +12,7 @@ good leader is entirely a construct_.
 
 ## Background
 
-The way the news surrounding the SAA vice-president election reached me was
+The way the news surrounding the Society of American Archivists (SAA) vice-president election reached me was
 first via:
 
 * Courtney Chartier's blog: [here][saa-1].
