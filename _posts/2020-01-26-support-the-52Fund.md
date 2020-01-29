@@ -80,7 +80,7 @@ processes and procedures can help us but this time they are failing a group of
 good people.
 
 The SAA community, and existing leadership (by virtue of _position_, or
-_**nature**_, have spoken and are looking to support Lae’l Hughes-Watkins call.
+_**nature**_) have spoken and are looking to support Lae’l Hughes-Watkins call.
 
 They have setup the *[#52Fund][saa-8]* to support QTBIPOC, BIPOC, LGBTQ+, and 
 disabled memory workers' participation in official professional channels, like 
